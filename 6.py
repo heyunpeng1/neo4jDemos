@@ -1,5 +1,5 @@
 #Graph新增数据，入库
-#如何安装neo4j https://neo4j.com/download-thanks-beta/?edition=enterprise&release=3.5.0-alpha04&flavour=unix&_ga=2.217740886.1555121913.1531290048-1608792872.1531290048
+#如何安装参考官网https://neo4j.com/
 #运行这段代码需要先安装neo4j数据库
 from py2neo import Graph
 from py2neo import Node, Relationship, Graph
